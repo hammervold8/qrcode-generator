@@ -1,0 +1,51 @@
+body {
+    min-height: 100vh;
+}
+
+#main {
+    background-color: rgb(122, 202, 205);
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+    height: 100vh;
+    border: 3px solid rgb(0, 0, 0);
+    padding-top: 20px;
+    position: relative;
+}
+
+#form {
+    padding: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: cadetblue;
+    max-width: fit-content;
+    margin: auto;
+}
+
+#qrCode {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    max-width: 256px;
+    height: 256px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 40px;
+    background-color: cadetblue;
+}
+
+#downloadQR {
+    margin: auto;
+}
+
+footer {
+    background-color: cadetblue;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+

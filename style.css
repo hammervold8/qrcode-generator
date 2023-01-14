@@ -1,5 +1,6 @@
 body {
     min-height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #main {
@@ -52,3 +53,7 @@ footer {
     width: 100%;
 }
 
+footer ul li {
+    display: inline;
+    margin: 2em;
+}
